@@ -1,1 +1,2 @@
-<https://github.com/mino-su/crypto-dashboard/README.md>
+<https://github.com/mino-su/crypto-dashboard>
+
